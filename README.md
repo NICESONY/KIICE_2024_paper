@@ -3,4 +3,7 @@
 
 
 # 정보통신학회 : https://kiice.org/kor_main
-[정보통신학회_발표자료_손건희.pdf](https://github.com/user-attachments/files/16176849/_._.pdf)
+
+
+![image](https://github.com/NICESONY/SAM-PROJECT/assets/106459423/e2f7c732-1b54-4f63-9562-85c245ad2974)
+
