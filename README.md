@@ -11,7 +11,12 @@
   - matplotlib
   - numpy
 
+    
+# Datasets
 
+  - CIFAR10 : https://paperswithcode.com/dataset/cifar-10
+  - CIFAR100 : https://paperswithcode.com/dataset/cifar-100
+  - TinyImageNet : https://paperswithcode.com/dataset/tiny-imagenet
 
 # 투고학술지 :  정보통신학회 
 
